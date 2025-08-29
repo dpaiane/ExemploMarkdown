@@ -57,7 +57,6 @@ Badges: São pequenas imagens que mostram o status do seu projeto (por exemplo, 
 
 # Nome do Projeto
 
-![Badge de Status do Build](https://img.shields.io/travis/user/repo.svg)
 ![Badge de Cobertura de Código](https://img.shields.io/coveralls/github/user/repo.svg)
 ![Badge de Versão](https://img.shields.io/npm/v/nomedopacote.svg)
 ![Badge de Licença](https://img.shields.io/github/license/user/repo.svg)
