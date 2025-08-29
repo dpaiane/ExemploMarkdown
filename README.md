@@ -15,7 +15,7 @@ Para adicionar listas não ordenadas use:
 - Javascript
 
 Para adicionar link use:
-[tesxto do link](www.google.com.br)
+[texto do link](www.google.com.br)
 
 Pra colocar imagens
 ![Desccrição da imagem](https://picsum.photos/id/237/200/300)
