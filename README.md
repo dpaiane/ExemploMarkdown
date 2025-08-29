@@ -39,6 +39,9 @@ Além do Markdown básico, o GitHub aceita alguns recursos que são muito úteis
 
 Tabelas: Permitem organizar dados de forma estruturada. A sintaxe é um pouco mais complexa, mas muito útil.
 A tabela Markdown usa barras verticais (|) para separar as colunas e hifens (-) para a linha de cabeçalho.
+-|coluna 1|coluna 2|coluna 3|
+-|coluna 1|coluna 2|coluna 3|
+-|coluna 1|coluna 2|coluna 3|
 
 Emojis: Você pode adicionar emojis usando a sintaxe :nome_do_emoji:, por exemplo, :rocket:.
 
