@@ -21,9 +21,10 @@ Pra colocar imagens
 ![Desccrição da imagem](https://picsum.photos/id/237/200/300)
 
 Para exemplos de código:
-
-` int number = 10; 
-` number += 1;     
-` printf(Number);
+```
+ int number = 10; 
+ number += 1;     
+ printf(Number);
+```
 
    
