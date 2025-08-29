@@ -26,22 +26,26 @@ Para exemplos de código:
  number += 1;     
  printf(Number);
 ```
-**Dicas finais**
-Nome do arquivo: Garanta que seja README.md com o .md no final e o README em maiúsculas (ou minúsculas, mas README.md é o padrão).
-
-Estrutura: Um bom README geralmente começa com um título e uma breve descrição do projeto. Em seguida, ele pode incluir seções como "Como usar", "Instalação", "Pré-requisitos", "Licença", e "Contribuições".
-
-Objetivo: O principal objetivo do seu README é ser a página inicial do seu projeto, explicando de forma clara e concisa o que ele faz, como usá-lo e como as pessoas podem contribuir.
-
-
 Funcionalidades adicionais (específicas do GitHub)
 Além do Markdown básico, o GitHub aceita alguns recursos que são muito úteis para um README:
 
 Tabelas: Permitem organizar dados de forma estruturada. A sintaxe é um pouco mais complexa, mas muito útil.
 A tabela Markdown usa barras verticais (|) para separar as colunas e hifens (-) para a linha de cabeçalho.
--|coluna 1|coluna 2|coluna 3|
--|coluna 1|coluna 2|coluna 3|
--|coluna 1|coluna 2|coluna 3|
+
+| Coluna 1         | Coluna 2         |
+| --------------   | --------------   |
+| Conteúdo linha 1 | Conteúdo linha 1 |
+| Conteúdo linha 2 | Conteúdo linha 2 |
+
+<details>
+<summary>Minha tabela</summary>
+
+| Comando      | Descrição                           |
+| ------------ | ----------------------------------- |
+| `git status` | Lista todos os arquivos modificados |
+| `git diff`   | Mostra diferenças entre arquivos    |
+
+</details>
 
 Emojis: Você pode adicionar emojis usando a sintaxe :nome_do_emoji:, por exemplo, :rocket:.
 
@@ -77,3 +81,10 @@ cd nome-do-projeto
 npm install
 
 Sintaxe para matemática: O GitHub também suporta renderização de equações matemáticas usando MathJax. Você precisa de um $  para equações em linha ou $$ para blocos de equações.
+
+**Dicas finais**
+Nome do arquivo: Garanta que seja README.md com o .md no final e o README em maiúsculas (ou minúsculas, mas README.md é o padrão).
+
+Estrutura: Um bom README geralmente começa com um título e uma breve descrição do projeto. Em seguida, ele pode incluir seções como "Como usar", "Instalação", "Pré-requisitos", "Licença", e "Contribuições".
+
+Objetivo: O principal objetivo do seu README é ser a página inicial do seu projeto, explicando de forma clara e concisa o que ele faz, como usá-lo e como as pessoas podem contribuir.
